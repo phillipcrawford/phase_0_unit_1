@@ -86,6 +86,7 @@ adam.children = terah.children;
 //var carson = {}
 //carson.name = "Carson";
 //terah.children = carson;
+//
 //terah.children.carson.name;
 //terah.children.carson.name = "Carson";
 
