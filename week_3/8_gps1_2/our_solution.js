@@ -59,7 +59,4 @@ for (var i = 0; i< clients.length; i++){
 //    (that's me demonstrating knowledge of . notation right there.) Yes I was confused about the syntax of certain
 //    things such as the way the correct code goes 'function Client(name, age, quote) {' 
 //    I was trying 'function Client(String name, var age, String quote) {' . 
-//    But that was after it was cleared (By Rick) that we needed to define a function. I interpreted being told to make
-//    a constructor. There already was a constructor. It was the function we needed to add, not the constructor. I want
-//    to point out that we finished on time. Though we spent an extra 20 minutes on pleasantries and hearing things about 
-//    gitHub i already know.
+//    But that was after it was cleared up that we needed to define a function. Which admittedly I didn't quite get.
