@@ -63,6 +63,7 @@ that property carter has as a value, add name property with value of "Carter"
 that property colton has as a value, add name property with value of "Colton"
 
 11. Add a children property to adam and assign it the value of terah children.
+
     add children property to adam and set it equal to the contents of terah's children property
 
 */
