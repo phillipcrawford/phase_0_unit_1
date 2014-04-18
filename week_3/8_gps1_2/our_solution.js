@@ -45,4 +45,8 @@ for (var i = 0; i< clients.length; i++){
 
 
 //  Your Reflection:
-//    
+//  So being as this is github, complete with version control, everyone can see the past edits I've made and 
+//  committed to this. I could delete my entire repository, come up with a story for why, and appear drama free.
+//  But I won't, cause if you bother to check through all my github posts, then y'all want a window into my mind.
+//  I intend to delete this post. I prefer spoken word to written word. Written word takes longer. I do feel as 
+//  I drove and a fusion of Rick and Tim navigated. Will elaborate more in next final reflection.
