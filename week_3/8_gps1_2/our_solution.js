@@ -41,8 +41,23 @@ for (var i = 0; i< clients.length; i++){
     console.log(clients[i].quote);
 }
 
-
 // ** BONUS **
 
 
 //  Your Reflection:
+//    So I got an amazingly bad review from Rick monitoring our session. I feel like his response was very
+//    inaccurate. He said I did not know constructors, .notation, javascript syntax, and did not speak enough
+//    I was reminded to upload my completed work even though I did that 2 minutes after it was completed. 
+//    At no point was I confused about . notation. I have found that Java and javascript are quite similar but have
+//    some syntax differences. How could I have built a hashTable in Java last week with overloaded 
+//    constructors and numerous method calls without conceptually knowing constructors and . notation? I was driver, but 
+//    I feel like I drove and navigated. In sessions where I navigated, I was way more hands on in terms of how the code
+//    should go. My partner did speak more than me, but it was never "no, not that, do this". There were several things
+//    I said to see if my partner understood what was going on, but Rick must have interpreted these as me being confused. 
+//    Such as "So does the 'this' keyword refer to the instance of the object we created?" It does. Or "what type of loop 
+//    should we use?" I eventually answered my own question with a for loop iterating from 0 to the array.length 
+//    (that's me demonstrating knowledge of . notation right there.) Yes I was confused about the syntax of certain
+//    things such as the way the correct code goes 'function Client(name, age, quote) {' 
+//    I was trying 'function Client(String name, var age, String quote) {' 
+//    I want to point out that we finished on time. Though we spent an extra 20 minutes on pleasantries and hearing
+//    things about gitHub i already know.
