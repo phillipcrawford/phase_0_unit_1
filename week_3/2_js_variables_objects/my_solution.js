@@ -51,10 +51,12 @@ members = ["John", "Paul", "Susan", "Mary"];
 //   the reading. The challenge itself was very brief.
 // Which parts of the challenge did you find tedious?
 //   none of it
-// 
-// 
-// 
-// 
+// Are the variable names you've chosen clear? (see Tips for Naming Variables)
+//   I didn't pick any variable names, secretNumber, password, allowedIn, and members were already chosen
+//Is the code concise (but readable)? See JavaScript: Condensed Code vs. Readability Don't expect yourself to understand each part of the JavaScript, rather, compare the examples
+//   yes, I'd go so far as to say it's as concise as it can be, (all on 4 lines)
+//Is the code D.R.Y?
+//   this code does not repeat itself
 
 
 // __________________________________________
